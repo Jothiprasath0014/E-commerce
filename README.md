@@ -1,5 +1,7 @@
 # E-commerce Website Documentation
 
+#### Live Demo 🌐 => [JP-Ecommerce](https://ajp-ecommerce.netlify.app/)
+
 ## Project Overview
 
 This documentation covers the structure, setup, and key functionalities of an e-commerce prototype built using ```React``` for the frontend, ```Node.js and Express.js``` for the backend, and ```PostgreSQL``` for the database. The project simulates the process of browsing products, managing a shopping cart, processing payments (prototype), and confirming orders.

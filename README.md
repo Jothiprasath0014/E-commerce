@@ -101,6 +101,14 @@ A toast notification confirms the order placement.
 
 ![Payment Gateway.](/readme-image/payment-gateway.png "This is a payment gateway image.")
 
+* **Card Details :**
+
+![Card Details.](/readme-image/Card-Details.png "This is a Card Details image.")
+
+* **Shipping Details :**
+
+![Shipping Details.](/readme-image/Shipping-Details.png "This is a Card Details image.")
+
 * **Order Confirmation :**
 
 ![order confirmation.](/readme-image/order-confirmation.png "This is a order coonfirmation image.")

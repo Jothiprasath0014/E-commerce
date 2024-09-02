@@ -118,6 +118,7 @@ A toast notification confirms the order placement.
 
 ![order Database.](/readme-image/order-database.png "This is a order database image.")
 
+![order Database.](/readme-image/order-database2.png "This is a order database image.")
 
 * **Product Database :** 
 
